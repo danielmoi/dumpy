@@ -1,0 +1,38 @@
+# MacOS
+.DS_Store
+
+# Node
+node_modules
+
+# C++
+*.dSYM
+include
+
+# C++ (me)
+Go
+
+# Splashkit
+Resources
+
+
+# Files
+*.pdf
+*.doc*
+*.zip
+
+# Screenshots
+_screenshots
+screenshots
+
+# Editor
+.vscode
+
+# Logs
+logs
+
+# Security
+.env*
+.aliases.private*
+
+# DEV
+a.js
