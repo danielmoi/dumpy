@@ -3,6 +3,9 @@
 ## Why Vim
 http://www.viemu.com/a-why-vi-vim.html
 
+## Vim grammar / philosophy
+https://medium.com/@rafeco/the-grammar-of-vim-f86482876f46
+
 ## Tips / Cheatsheets
 https://www.fprintf.net/vimCheatSheet.html
 
@@ -28,3 +31,16 @@ http://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs/
 
 ## Split windows
 https://robots.thoughtbot.com/vim-splits-move-faster-and-more-naturally
+
+## vimrcs
+https://github.com/jessfraz/.vim/blob/master/vimrc
+
+https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim
+
+https://github.com/amix/vimrc/blob/master/vimrcs/extended.vim
+
+https://github.com/thoughtbot/dotfiles/blob/master/vimrc
+
+https://github.com/mscoutermarsh/dotfiles/blob/master/vimrc
+
+
