@@ -6,6 +6,9 @@ A dumping group for various links
 [Vim](/vim.md)
 
 ## Programming
-[JavaScript](/javascript.md)
+[General](/general.md)
+
+[JavaScript](/js.md)
+
 [C++](/cpp.md)
 
