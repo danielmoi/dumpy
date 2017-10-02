@@ -1,5 +1,8 @@
 # JavaScript
 
+## Flow
+https://objectcomputing.com/resources/publications/sett/may-2017-flow-javascript-type-checker
+
 ## Codemods
 https://github.com/facebook/jscodeshift
 
