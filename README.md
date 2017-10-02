@@ -1,6 +1,6 @@
 # Dumpy 💩
 
-A dumping group for various links
+Dumping ground for my links
 
 ## Vim
 [Vim](/vim.md)
@@ -9,7 +9,9 @@ A dumping group for various links
 [General Programming](/programming.md)
 
 [JavaScript](/js.md)
+
 [Rust](/rust.md)
+
 [C++](/cpp.md)
 
 ## Terminal
