@@ -6,12 +6,17 @@ http://www.viemu.com/a-why-vi-vim.html
 ## Vim grammar / philosophy
 https://medium.com/@rafeco/the-grammar-of-vim-f86482876f46
 
+https://hackernoon.com/learning-vim-what-i-wish-i-knew-b5dca186bef7
+
 ## Tips / Cheatsheets
 https://www.fprintf.net/vimCheatSheet.html
 
 https://www.cs.oberlin.edu/~kuperman/help/vim/
 
 http://www.worldtimzone.com/res/vi.html
+
+## Vim Online Practice
+http://www.openvim.com/
 
 ## Search
 https://medium.com/@crashybang/supercharge-vim-with-fzf-and-ripgrep-d4661fc853d2

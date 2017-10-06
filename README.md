@@ -12,6 +12,8 @@ Dumping ground for my links
 
 [Rust](/rust.md)
 
+[Reason](/reason.md)
+
 [C++](/cpp.md)
 
 ## Terminal
