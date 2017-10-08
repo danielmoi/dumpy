@@ -18,6 +18,10 @@ http://www.worldtimzone.com/res/vi.html
 ## Vim Online Practice
 http://www.openvim.com/
 
+https://vim-adventures.com/
+
+
+
 ## Search
 https://medium.com/@crashybang/supercharge-vim-with-fzf-and-ripgrep-d4661fc853d2
 
@@ -48,4 +52,5 @@ https://github.com/thoughtbot/dotfiles/blob/master/vimrc
 
 https://github.com/mscoutermarsh/dotfiles/blob/master/vimrc
 
-
+# Plugins
+https://vimawesome.com/
