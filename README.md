@@ -16,6 +16,8 @@ Dumping ground for my links
 
 [C++](/cpp.md)
 
+[TLA+](/tla.md)
+
 ## Terminal
 [General Terminal](/terminal/md)
 
