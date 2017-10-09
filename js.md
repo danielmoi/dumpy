@@ -13,6 +13,8 @@ http://jsbin.com/
 
 https://codepen.io/
 
+## Async Functions
+http://exploringjs.com/es2016-es2017/ch_async-functions.html
 
 
 
