@@ -1,5 +1,9 @@
 # General programming links
 
+## Online courses
+https://www.coursera.org/learn/programming-languages
+
+## Patterns
 http://gameprogrammingpatterns.com/
 
 ## Online REPLs
