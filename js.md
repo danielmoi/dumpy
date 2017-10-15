@@ -1,5 +1,12 @@
 # JavaScript
 
+## Books
+https://leanpub.com/javascriptallongesix/read - Reg Braithwaite
+
+http://exploringjs.com/ - Axel Rauschmayer
+
+http://speakingjs.com/ - Axel Rauschmayer
+
 ## Flow
 https://objectcomputing.com/resources/publications/sett/may-2017-flow-javascript-type-checker
 
@@ -18,3 +25,8 @@ http://exploringjs.com/es2016-es2017/ch_async-functions.html
 
 
 
+## Webpack
+https://survivejs.com/webpack/foreword/
+
+## React
+https://survivejs.com/react/introduction/

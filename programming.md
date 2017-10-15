@@ -1,5 +1,11 @@
 # General programming links
 
+## Code problems
+http://exercism.io/
+
+http://codewars.com/
+
+
 ## Online courses
 https://www.coursera.org/learn/programming-languages
 
