@@ -10,6 +10,8 @@ https://www.codeproject.com/Articles/878359/Data-modelling-using-ERD-with-Crow-F
 
 http://techdifferences.com/difference-between-e-r-and-relational-model-in-dbms.html
 
+http://www.cs.sfu.ca/CourseCentral/354/zaiane/material/notes/Chapter2/node1.html
+
 ## Formatting Reports
 https://docs.oracle.com/cd/B19306_01/server.102/b14357/ch6.htm
 
