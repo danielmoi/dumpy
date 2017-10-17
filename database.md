@@ -17,3 +17,6 @@ https://docs.oracle.com/cd/B19306_01/server.102/b14357/ch6.htm
 
 ## Null
 https://stackoverflow.com/questions/9581745/sql-is-null-and-null
+
+## Sequelize
+http://docs.sequelizejs.com/manual/tutorial/querying.html
