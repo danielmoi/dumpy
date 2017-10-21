@@ -9,7 +9,7 @@ https://www.dlsweb.rmit.edu.au/toolbox/ecommerce/tbn_respak/tbn_e2/html/tbn_e2_d
 https://www.codeproject.com/Articles/878359/Data-modelling-using-ERD-with-Crow-Foot-Notation
 
 http://techdifferences.com/difference-between-e-r-and-relational-model-in-dbms.html
-
+http://www.vivekmchawla.com/erd-crows-foot-relationship-symbols-cheat-sheet/
 http://www.cs.sfu.ca/CourseCentral/354/zaiane/material/notes/Chapter2/node1.html
 
 ## Formatting Reports
