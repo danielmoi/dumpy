@@ -29,3 +29,6 @@ Dumping ground for my links
 
 ## Markdown
 [General Markdown](/markdown.md)
+
+## Hosting
+[General Web Hosting](/hosting.md)
