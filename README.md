@@ -32,3 +32,6 @@ Dumping ground for my links
 
 ## Hosting
 [General Web Hosting](/hosting.md)
+
+## Web
+[Site Generators](/site-generators.md)
