@@ -18,6 +18,8 @@ Dumping ground for my links
 
 [TLA+](/tla.md)
 
+[Haskell](/programming/haskell.md)
+
 ## Terminal
 [General Terminal](/terminal/md)
 
