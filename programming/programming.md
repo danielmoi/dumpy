@@ -19,4 +19,6 @@ https://repl.it/
 ## Functional programming
 https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript
 
+## Other
+https://ansdell.net/prog.html
 
