@@ -2,39 +2,39 @@
 
 Dumping ground for my links
 
-## Vim
-[Vim](/vim.md)
+## Editors
+[Vim](/editors/vim.md)
 
 ## Programming
-[General Programming](/programming.md)
+[General Programming](/programming/programming.md)
 
-[JavaScript](/js.md)
+[JavaScript](/programming/js.md)
 
-[Rust](/rust.md)
+[Markdown](/markdown.md)
 
-[Reason](/reason.md)
+[Rust](/programming/rust.md)
 
-[C++](/cpp.md)
+[Reason](/programming/reason.md)
 
-[TLA+](/tla.md)
+[C++](/programming/cpp.md)
+
+[TLA+](/programming/tla.md)
 
 [Haskell](/programming/haskell.md)
 
 ## Terminal
-[General Terminal](/terminal/md)
+[General Terminal](/terminal/terminal/md)
 
 ## Database
-[General Database](/database.md)
-[Postgres](/postgres.md)
+[General Database](/database/database.md)
+[Postgres](/database/postgres.md)
 
 ## Maths
-[General Maths](/maths.md)
+[General Maths](/maths/maths.md)
 
-## Markdown
-[General Markdown](/markdown.md)
 
-## Hosting
-[General Web Hosting](/hosting.md)
+## Websites
+[General Web Hosting](/websites/hosting.md)
 
-## Web
-[Site Generators](/site-generators.md)
+[Site Generators](/websites/site-generators.md)
+
