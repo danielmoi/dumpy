@@ -1,5 +1,8 @@
 # Haskell
 
+## Fold
+https://wiki.haskell.org/Fold
+
 ## Books / Resources
 http://haskellbook.com/
 :w
