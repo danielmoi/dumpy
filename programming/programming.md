@@ -22,3 +22,5 @@ https://egghead.io/courses/professor-frisby-introduces-composable-functional-jav
 ## Other
 https://ansdell.net/prog.html
 
+## History
+https://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf
