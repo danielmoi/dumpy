@@ -1,8 +1,11 @@
 # Haskell
 
-## Search
+## Misc
 https://www.haskell.org/hoogle/
+
 https://qfpl.io/posts/fp-cheat-sheet/
+
+http://pointfree.io/
 
 ## Fold
 https://wiki.haskell.org/Fold
@@ -18,7 +21,6 @@ https://github.com/bitemyapp/learnhaskell
 http://learnyouahaskell.com/learnyouahaskell.pdf
 
 [Queensland Functional Programming Lab](https://qfpl.io/)
-
 
 ## Stack
 https://docs.haskellstack.org/en/stable/README/
