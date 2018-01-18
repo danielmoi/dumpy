@@ -1,5 +1,8 @@
 # Haskell
 
+## Search
+https://www.haskell.org/hoogle/
+
 ## Fold
 https://wiki.haskell.org/Fold
 
