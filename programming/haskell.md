@@ -2,6 +2,7 @@
 
 ## Search
 https://www.haskell.org/hoogle/
+https://qfpl.io/posts/fp-cheat-sheet/
 
 ## Fold
 https://wiki.haskell.org/Fold
