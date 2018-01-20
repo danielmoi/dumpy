@@ -1,5 +1,8 @@
 # Haskell
 
+## Courses
+http://www.cis.upenn.edu/~cis194/spring13/lectures.html
+
 ## Misc
 https://www.haskell.org/hoogle/
 
