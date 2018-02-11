@@ -15,13 +15,15 @@ https://wiki.haskell.org/Fold
 
 ## Books / Resources
 http://haskellbook.com/
-:w
+
+[Learn You a Haskell](http://learnyouahaskell.com/)
+
+[Learn You a Haskell Summary](https://gist.github.com/mikehaertl/3258427)
 
 https://en.wikibooks.org/wiki/Haskell
 
 https://github.com/bitemyapp/learnhaskell
 
-http://learnyouahaskell.com/learnyouahaskell.pdf
 
 [Queensland Functional Programming Lab](https://qfpl.io/)
 
