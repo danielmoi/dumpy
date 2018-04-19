@@ -1,6 +1,16 @@
 # Kotlin
 
+## General Java / JVM
+https://spring.io/guides
+
+
+## General Kotlin
 https://learnxinyminutes.com/docs/kotlin/
+
+https://www.tutorialspoint.com/kotlin/index.htm
+
+https://kotlinlang.org/docs/tutorials/spring-boot-restful.html
+
 
 ## Talks
 
