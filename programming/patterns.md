@@ -1,5 +1,7 @@
 # Patterns
 
+https://survivejs.com/maintenance/preface/
+
 https://fsharpforfunandprofit.com/fppatterns/
 
 https://robots.thoughtbot.com/handling-associations-on-null-objects
