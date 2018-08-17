@@ -4,6 +4,10 @@
 https://github.com/google/closure-compiler
 A JavaScript checker and compiler
 
+
+## JS Engine
+https://mathiasbynens.be/notes/prototypes
+
 ## Books
 https://leanpub.com/javascriptallongesix/read - Reg Braithwaite
 
