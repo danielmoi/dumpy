@@ -12,3 +12,6 @@ https://pgexercises.com/gettingstarted.html
 
 ## System Catalog
 https://severalnines.com/blog/understanding-and-reading-postgresql-system-catalog
+
+## Search
+https://austingwalters.com/fast-full-text-search-in-postgresql/
