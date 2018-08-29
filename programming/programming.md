@@ -22,5 +22,7 @@ https://egghead.io/courses/professor-frisby-introduces-composable-functional-jav
 ## Other
 https://ansdell.net/prog.html
 
+https://blog.sourcerer.io/why-is-a-java-guy-so-excited-about-node-js-and-javascript-7cfc423efb44
+
 ## History
 https://www.thocp.net/biographies/papers/backus_turingaward_lecture.pdf
