@@ -18,3 +18,7 @@ https://kotlinlang.org/docs/tutorials/spring-boot-restful.html
 
 Introduction to Kotlin Arrow by Jacob Bass
 https://www.youtube.com/watch?v=tM2wEI-e80E
+
+
+## Misc
+https://proandroiddev.com/annotations-for-your-java-friendly-kotlin-code-badfbedec14
