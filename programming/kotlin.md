@@ -22,3 +22,7 @@ https://www.youtube.com/watch?v=tM2wEI-e80E
 
 ## Misc
 https://proandroiddev.com/annotations-for-your-java-friendly-kotlin-code-badfbedec14
+
+
+## Frameworks
+http://spring.io/
