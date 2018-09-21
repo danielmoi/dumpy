@@ -9,3 +9,5 @@ https://robots.thoughtbot.com/handling-associations-on-null-objects
 https://robots.thoughtbot.com/rails-refactoring-example-introduce-null-object
 
 https://code.tutsplus.com/articles/a-beginners-guide-to-design-patterns--net-12752
+
+https://martinfowler.com/articles/extract-data-rich-service.html
