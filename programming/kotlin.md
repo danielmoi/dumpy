@@ -7,6 +7,9 @@
   Hibernate
 - H2 = database (with embedded support)
 
+# Tutorials
+https://spring.io/guides/tutorials/spring-boot-kotlin/
+
 ## General Java / JVM
 https://spring.io/guides
 
