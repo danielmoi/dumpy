@@ -1,5 +1,12 @@
 # Kotlin
 
+## Dependencies
+- Web = Full stack web development with Tomcat and Spring MVC
+- Mustache = templating engine
+- JPA = Java Persistence API, including spring-data-jpg, spring-orm, and
+  Hibernate
+- H2 = database (with embedded support)
+
 ## General Java / JVM
 https://spring.io/guides
 
