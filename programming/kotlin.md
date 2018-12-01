@@ -36,3 +36,5 @@ https://proandroiddev.com/annotations-for-your-java-friendly-kotlin-code-badfbed
 
 ## Frameworks
 http://spring.io/
+
+https://spring.io/blog/2018/11/08/spring-boot-in-a-container
