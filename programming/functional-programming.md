@@ -12,3 +12,7 @@ https://fsharpforfunandprofit.com/
 https://github.com/getify/Functional-Light-JS
 
 https://frontendmasters.com/courses/functional-javascript-v2/
+
+https://github.com/MostlyAdequate/mostly-adequate-guide
+
+https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript
