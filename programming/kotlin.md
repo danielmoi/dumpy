@@ -36,10 +36,19 @@ https://www.youtube.com/watch?v=tM2wEI-e80E
 https://proandroiddev.com/annotations-for-your-java-friendly-kotlin-code-badfbedec14
 
 
-## Frameworks
+## Spring
 http://spring.io/
 
 https://spring.io/blog/2018/11/08/spring-boot-in-a-container
+
+https://spring.io/guides/tutorials/spring-boot-kotlin/
+
+https://spring.io/guides/gs/gradle/
+
+## Spring + Docker
+https://medium.com/@Ankitthakur/spring-boot-with-kotlin-gradle-and-docker-d4e13b60a3d9
+
+https://github.com/spring-guides/gs-spring-boot-docker
 
 
 ## Concurrency

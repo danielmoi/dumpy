@@ -6,4 +6,5 @@ https://medium.com/sofa-blog/how-a-designer-built-and-shipped-an-ios-app-in-6-mo
 
 https://refactoring.guru/design-patterns/builde://refactoring.guru/design-patterns/builder
 
+https://martinfowler.com/articles/extract-data-rich-service.html
 
