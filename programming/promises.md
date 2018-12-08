@@ -9,3 +9,6 @@ https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pr
 https://scotch.io/tutorials/javascript-promises-for-dummies
 
 https://www.datchley.name/es6-promises/
+
+https://v8.dev/blog/fast-async
+
