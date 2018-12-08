@@ -1,5 +1,10 @@
 # Typescript
 
+
+## Notation
+http://2ality.com/2018/04/type-notation-typescript.html
+
+## Other
 https://basarat.gitbooks.io/typescript/content/
 
 https://vivacitylabs.com/setup-typescript-sequelize/
