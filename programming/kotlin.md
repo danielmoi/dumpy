@@ -38,3 +38,7 @@ https://proandroiddev.com/annotations-for-your-java-friendly-kotlin-code-badfbed
 http://spring.io/
 
 https://spring.io/blog/2018/11/08/spring-boot-in-a-container
+
+
+## Concurrency
+https://medium.com/@elizarov/structured-concurrency-722d765aa952
