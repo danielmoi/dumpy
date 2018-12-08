@@ -24,6 +24,8 @@ https://www.tutorialspoint.com/kotlin/index.htm
 
 https://kotlinlang.org/docs/tutorials/spring-boot-restful.html
 
+https://khan.github.io/kotlin-for-python-developers/
+
 ## Talks
 
 Introduction to Kotlin Arrow by Jacob Bass
