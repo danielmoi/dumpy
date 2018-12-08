@@ -10,5 +10,7 @@ https://toddmotto.com/classes-vs-interfaces-in-typescript
 
 https://www.sitepen.com/blog/2018/10/29/update-the-definitive-typescript-guide/
 
+https://codeburst.io/five-tips-i-wish-i-knew-when-i-started-with-typescript-c9e8609029db
+
 ## React
 https://medium.com/knerd/typescript-tips-series-proper-typing-of-react-redux-connected-components-eda058b6727d
