@@ -24,3 +24,6 @@ https://codeburst.io/five-tips-i-wish-i-knew-when-i-started-with-typescript-c9e8
 https://medium.com/knerd/typescript-tips-series-proper-typing-of-react-redux-connected-components-eda058b6727d
 
 https://medium.com/@mtiller/storybook-react-typescript-and-jest-c9059ea06fa7
+
+## Redux
+https://stackoverflow.com/questions/52648553/typescript-unit-tests-correct-typing-for-dispatching-a-thunk-with-store-dispat
