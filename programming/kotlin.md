@@ -53,3 +53,6 @@ https://github.com/spring-guides/gs-spring-boot-docker
 
 ## Concurrency
 https://medium.com/@elizarov/structured-concurrency-722d765aa952
+
+## Tests
+https://blog.philipphauer.de/best-practices-unit-testing-kotlin/
