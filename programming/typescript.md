@@ -25,5 +25,9 @@ https://medium.com/knerd/typescript-tips-series-proper-typing-of-react-redux-con
 
 https://medium.com/@mtiller/storybook-react-typescript-and-jest-c9059ea06fa7
 
+https://github.com/piotrwitek/react-redux-typescript-guide
+
+https://github.com/sw-yx/react-typescript-cheatsheet
+
 ## Redux
 https://stackoverflow.com/questions/52648553/typescript-unit-tests-correct-typing-for-dispatching-a-thunk-with-store-dispat
