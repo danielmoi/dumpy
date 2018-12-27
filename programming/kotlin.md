@@ -54,5 +54,7 @@ https://github.com/spring-guides/gs-spring-boot-docker
 ## Concurrency
 https://medium.com/@elizarov/structured-concurrency-722d765aa952
 
+https://medium.freecodecamp.org/how-to-implement-an-object-pool-with-an-actor-in-kotlin-ed06d3ba6257
+
 ## Tests
 https://blog.philipphauer.de/best-practices-unit-testing-kotlin/
